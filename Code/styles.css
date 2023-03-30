@@ -12,7 +12,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #4070f4;
+  background-color: #ECF2FF;
 }
 
 .form {
@@ -54,6 +54,13 @@ form .field {
 .field input {
   padding: 0 15px;
   border: 1px solid#CACACA;
+}
+
+.field button {
+  font-size: 20px;
+  font-weight: bold;
+  color: #FFF;
+  background-color: #4070f4;
 }
 
 .fa-regular {
